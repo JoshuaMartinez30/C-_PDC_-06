@@ -76,6 +76,6 @@ Punto de control #6 de **C++** diseñado para demostrar:
 
 ## :computer: Código
 
-- :blue_book: [Punto de control #6]()
+- :blue_book: [Punto de control #6](https://github.com/JoshuaMartinez30/C-_PDC_-06.git)
 
 ---
