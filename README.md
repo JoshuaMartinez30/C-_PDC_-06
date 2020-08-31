@@ -2,7 +2,7 @@
 
 ## :copyright: Autor
 
-- :camera: <img src="https://www.facebook.com/photo.php?fbid=2921186684621993&set=pb.100001920716280.-2207520000..&type=3" width="160px">
+- :camera: <img src="imagenes/Mi_foto.jpg" width="160px">
 
 - :older_man: **JOSHUA DAVID MARTINEZ PONCE**
 - :e-mail: Joshuamartinez8723@gmail.com
@@ -68,10 +68,6 @@ Punto de control #6 de **C++** diseñado para demostrar:
 
 ![](imagenes/salida_sobrecarga_operadores.png)
 
-
-## :white_circle: Makefile
-
-![](imagenes/makefile.png)
 
 
 ## :computer: Código
