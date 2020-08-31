@@ -4,7 +4,7 @@
 
 - :camera: <img src="imagenes/Mi_foto.jpg" width="160px">
 
-- :older_man: **JOSHUA DAVID MARTINEZ PONCE**
+- :man: **JOSHUA DAVID MARTINEZ PONCE**
 - :e-mail: Joshuamartinez8723@gmail.com
 - :link: [github.com/Joshua](https://github.com/)
 - :calendar: 2020-08-30 23:00 CST
